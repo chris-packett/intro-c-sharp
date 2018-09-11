@@ -1,0 +1,11 @@
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/bin/Debug/netcoreapp2.1/intro-c-sharp.deps.json
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/bin/Debug/netcoreapp2.1/intro-c-sharp.runtimeconfig.json
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/bin/Debug/netcoreapp2.1/intro-c-sharp.runtimeconfig.dev.json
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/bin/Debug/netcoreapp2.1/intro-c-sharp.dll
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/bin/Debug/netcoreapp2.1/intro-c-sharp.pdb
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/obj/Debug/netcoreapp2.1/intro-c-sharp.csprojAssemblyReference.cache
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/obj/Debug/netcoreapp2.1/intro-c-sharp.csproj.CoreCompileInputs.cache
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/obj/Debug/netcoreapp2.1/intro-c-sharp.AssemblyInfoInputs.cache
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/obj/Debug/netcoreapp2.1/intro-c-sharp.AssemblyInfo.cs
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/obj/Debug/netcoreapp2.1/intro-c-sharp.dll
+/Users/chris/sdg-assignments/week-8/intro-c-sharp/obj/Debug/netcoreapp2.1/intro-c-sharp.pdb
